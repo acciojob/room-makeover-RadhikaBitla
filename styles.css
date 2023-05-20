@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+.favorite-color
+{
+	background-image:linear-gradient(blue,pink,brown,red);
+	background-size:100%;
+	-webkit-background-clip:text;
+	text-fill-color:transparent;
+    -webkit-text-fill-color: transparent; 
+}
